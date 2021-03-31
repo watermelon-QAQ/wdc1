@@ -1,0 +1,162 @@
+h1{
+        font-family:"Raleway",Sans-serif;
+}
+
+h3{
+    color:rgba(0,0,139,0.8);
+
+}
+
+a{
+        color:darkgreen;
+}
+
+del{
+        color:grey;
+}
+
+mark{
+        color:darkblue;
+        background-color:pink;
+}
+
+h2{
+        text-align:left;
+        font-family:"Raleway",Sans-serif;
+}
+
+pre{
+        font-family:monospace;
+}
+
+#transparent-text{
+    color:rgba(0,0,0,0.5);
+
+}
+
+body{
+    background-color:#DCF5F5;
+    background-image:url(cross.png);
+    background-repeat: repeat;
+    background-position: top;
+
+}
+
+.blue{
+    color:blue;
+}
+
+.fancy{
+    font-family:cursive;
+}
+
+.blueandfancy{
+    color:blue;
+    font-family:cursive;
+}
+
+.content{
+    background-color:white;
+}
+
+.content2{
+    border: 1px solid darkgrey;
+    border-radius:8px;
+    background-color:white;
+}
+
+.red-border{
+    border:1px solid red;
+}
+
+.blue-border{
+    border:1px solid blue;
+
+}
+
+
+.red-outline{
+    outline:1px solid red;
+}
+
+
+.red-border-nobottom{
+    border-width:1px;
+    border-style:solid;
+    border-bottom:none;
+    border-top-left-radius:8px;
+    border-top-right-radius:8px;
+    border-color:red;
+
+}
+
+.blue-border-rbottom{
+    border-width:1px;
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+    border-color:blue;
+    border-style:solid;
+}
+
+
+.outer{
+    background-color:blue;
+    border:1px solid red;
+}
+
+.inner{
+    background-color:yellow;
+    border:1px solid red;
+    margin:10px 20px 10px 20px;
+    padding:12px;
+    height:174px;
+    width:674px;
+    text-align:right;
+}
+
+.outer2{
+    margin:20px;
+    background-color:blue;
+    border:1px solid red;
+}
+
+.inner2{
+      background-color:yellow;
+      border:1px solid red;
+      margin:0px 300px 0px 300px;
+      padding:12px;
+      width:374px;
+      height:374px;
+      text-align:right;
+
+}
+
+.p.noto{
+    font-family:"Noto serif",serif;
+}
+
+blockquote{
+    font-family:"Raleway", serif;
+    color:dimgrey;
+    line-height:1.5;
+    word-spacing:0.2em;
+    text-align:justify;
+}
+
+h4{
+    font-family:"Raleway", serif;
+    font-weight:normal;
+    font-style:italic;
+    text-decoration:underline;
+}
+
+p{
+    font-family:"Noto Serif",serif;
+}
+
+body{
+    font-family:"Noto Serif",serif;
+    background-color:#DCF5F5;
+    background-image:url(cross.png);
+    background-position:top;
+}
